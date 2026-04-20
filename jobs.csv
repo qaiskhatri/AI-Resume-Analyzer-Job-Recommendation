@@ -1,0 +1,13 @@
+Job Title,Domain,Required Skills
+Software Engineer,Tech,"Python, Java, JavaScript, Data Structures, Algorithms, Git, Docker"
+Machine Learning Engineer,Tech,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, SQL"
+DevOps Engineer,Tech,"Docker, Kubernetes, AWS, Linux, Terraform, Jenkins, Git"
+Data Analyst,Data,"Excel, SQL, Power BI, Tableau, Python, Data Analysis"
+Business Intelligence Developer,Data,"SQL, Power BI, Tableau, ETL, Data Warehouse"
+Architect,Architecture,"AutoCAD, Revit, SketchUp, BIM, 3ds Max, V-Ray"
+Interior Designer,Architecture,"AutoCAD, SketchUp, V-Ray, Photoshop, Design Thinking"
+Civil Engineer,Civil,"Construction, Structural Analysis, AutoCAD, SAP2000, Design, Project Management"
+Structural Engineer,Civil,"Structural Analysis, SAP2000, ETABS, Concrete Design, Steel Design"
+Business Analyst,Business,"Business Analysis, Agile, Scrum, Requirements Gathering, Jira, SQL"
+Marketing Manager,Business,"Marketing, Social Media, SEO, Content Strategy, Brand Management"
+Project Manager,Business,"Project Management, Agile, Scrum, Communication, Leadership"
